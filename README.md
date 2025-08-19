@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Hall 3 Sports Inventory Management Website
 
 ## Project info
 
